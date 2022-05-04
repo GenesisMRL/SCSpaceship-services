@@ -1,0 +1,66 @@
+[
+  {"aegis-dynamics": {
+    "path": "https://robertsspaceindustries.com/media/1apfbr0v0vbnur/icon/Aegis.png",
+    "displayName": "Aegis Dynamics"
+  }},
+  {"anvil-aerospace": {
+    "path": "https://robertsspaceindustries.com/media/w0o33qmdai9wpr/icon/Anvil.png",
+    "displayName": "Anvil Aerospace"
+  }},
+  {"aopoa": {
+    "path": "https://robertsspaceindustries.com/media/xjaiqvmp7jqyer/icon/Aopoa-Square.png",
+    "displayName": "Aopoa"
+  }},
+  {"argo-astronautics": {
+    "path": "https://robertsspaceindustries.com/media/5koy9xgk02jqer/icon/Argo_Blue.png",
+    "displayName": "Argo Astronautics"
+  }},
+  {"banu": {
+    "path": "https://robertsspaceindustries.com/media/3ktltnm6ph4cfr/icon/Banu.png",
+    "displayName": "Banu"
+  }},
+ { "consolidated-outland": {
+    "path": "https://robertsspaceindustries.com/media/khu6mwy8zo5sar/icon/Consolidated_outland.png",
+    "displayName": "Consolidated Outland"
+  }},
+  {"crusader-industries": {
+    "path": "https://robertsspaceindustries.com/media/pdlrf7zh54uy0r/icon/Starlifter-1.png",
+    "displayName": "Crusader Industries"
+  }},
+  {"drake-interplanetary": {
+    "path": "https://robertsspaceindustries.com/media/bdkpvl2bpxaqar/icon/Drake.png",
+    "displayName": "Drake Interplanetary"
+  }},
+  {"esperia": {
+    "path": "https://robertsspaceindustries.com/media/11ovo1idsoe8dr/icon/Esperia3.png",
+    "displayName": "Esperia"
+  }},
+ { "gatac-manufacture": {
+    "path": "https://media.robertsspaceindustries.com/bdb91hpk8kh8r/icon.png",
+    "displayName": "Gatac Manufacture"
+  }},
+  {"greycat-industrial": {
+    "path": "https://robertsspaceindustries.com/media/5jf6y40pc7ngxr/icon/GreyCat-Icon.png",
+    "displayName": "Greycat Industrial"
+  }},
+  {"kruger-intergalactic": {
+    "path": "https://robertsspaceindustries.com/media/4u3vwg26y1wm3r/icon/Kruger.png",
+    "displayName": "Kruger Intergalactic"
+  }},
+ { "misc": {
+    "path": "https://robertsspaceindustries.com/media/6irnix69d4a8rr/icon/MISC.png",
+    "displayName": "MISC"
+  }},
+  {"origin-jumpworks": {
+    "path": "https://robertsspaceindustries.com/media/0ffygmebwd3t1r/icon/Origin.png",
+    "displayName": "Origin Jumpworks"
+  }},
+  {"rsi": {
+    "path": "https://robertsspaceindustries.com/media/tb6ui8j38wwscr/icon/RSI.png",
+    "displayName": "RSI"
+  }},
+  {"tumbril": {
+    "path": "https://robertsspaceindustries.com/media/7fo9fxemlc9k7r/icon/Tumbril_logo.png",
+    "displayName": "Tumbril"
+  }}
+]
